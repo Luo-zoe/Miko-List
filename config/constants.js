@@ -29,7 +29,7 @@ let config = {
       {
         link: "https://v.douyin.com/iy5gVgv8/",
         name: "抖音主页",
-        image: "/assets/icon/TikTok.png",
+        image: "/assets/icon/Tiktok.png",
         },
       // {
       //   link: "https://weibo.com/",
