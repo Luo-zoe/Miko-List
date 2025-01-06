@@ -28,10 +28,10 @@ export default function Home() {
     });
     const [searchBox, setSearchBox] = useState("");
     const [showToTopButton, setToTopShowButton] = useState(false);
-    const [showIntro, setShowIntro] = useState(false);
+    const [showIntro, setShowIntro] = useState("");
     const [modalPlayerShow, setPlayerModalShow] = useState(false);
     const [modalPlayerSongName, setPlayerModalSongName] = useState("");
-    const [BVID, setBVID] = useState("");
+    const [BVID, setBVID] = useState(false);
 
     useEffect(() => {
         //检测窗口滚动
