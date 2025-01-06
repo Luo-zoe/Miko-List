@@ -10,7 +10,7 @@ let config = {
     Cursor: false, // 使用自定义光标图片
   
     LanguageCategories: ["英语", "日语", "韩语"], // 语言分类
-    RemarkCategories: ["说唱", "戏腔", "儿歌"], // 标签分类
+    RemarkCategories: ["说唱", "戏腔", "儿歌", "推荐"], // 标签分类
   
     BannerTitle: "米可-Miko！", // banner 标题
   
